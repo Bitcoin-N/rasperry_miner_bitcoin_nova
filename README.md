@@ -1,3 +1,5 @@
+<img src="http://pool.bitcoinn.biz/bitcoin-nova.png">
+
 # rasperry_miner_bitcoin_nova
 
 you need the version "Raspbian Stretch Lite"
@@ -82,3 +84,7 @@ xmrig: "config.json"
 }
 
 ```
+
+executable:
+cpuminer-multi= "start"
+xmrig = "xmrig"
