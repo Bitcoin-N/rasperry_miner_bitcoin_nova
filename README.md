@@ -1,0 +1,1 @@
+# rasperry_miner_bitcoin_nova
